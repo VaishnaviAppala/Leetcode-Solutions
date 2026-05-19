@@ -16,7 +16,7 @@ at problem solving and DSA.
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Longest Consecutive Sequence
 
