@@ -18,7 +18,7 @@ at problem solving and DSA.
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self
 - [x] Valid Sudoku
-- [ ] Longest Consecutive Sequence
+- [x] Longest Consecutive Sequence
 
 ### Two Pointers
 - [ ] Coming soon...
