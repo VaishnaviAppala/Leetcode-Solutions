@@ -17,7 +17,7 @@ at problem solving and DSA.
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Product of Array Except Self
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [ ] Longest Consecutive Sequence
 
 ### Two Pointers
